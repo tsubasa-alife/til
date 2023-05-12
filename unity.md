@@ -9,3 +9,4 @@
 - Job SystemはCPUの持つ複数コアを利用して並列処理を行わせる機能。
 - SIMD(Single Instruction/Multiple Data)はひとつの命令で複数データをまとめて処理する命令。データ処理の並列化ができる。
 - FBXはPrefab Variantとして変換してから利用する
+- クラスをインスタンス化（実体化）したものがオブジェクト
