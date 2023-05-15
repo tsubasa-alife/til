@@ -10,3 +10,5 @@
 - SIMD(Single Instruction/Multiple Data)はひとつの命令で複数データをまとめて処理する命令。データ処理の並列化ができる。
 - FBXはPrefab Variantとして変換してから利用する
 - クラスをインスタンス化（実体化）したものがオブジェクト
+- HDR(High Dynamic Range)はSDRよりも広域の明るさを表現することができる。ポストプロセス関連。
+- ジオメトリは3Dモデルの形状のこと。
