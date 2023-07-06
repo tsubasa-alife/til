@@ -5,6 +5,8 @@
 - [Python](https://docs.python.org/ja/3/)
 - [Go](http://go.shibu.jp/)
 - [MDN(Javascript, HTML, CSS)](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference)
+- [Pytorch](https://pytorch.org/docs/stable/index.html)
+- [TensorFlow.js](https://www.tensorflow.org/js?hl=ja)
 ## 学習に役立ちそうなサイト
 - [Unity Learning Materials](https://learning.unity3d.jp/)
 - [A Tour of Go](https://go-tour-jp.appspot.com/list)
