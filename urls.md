@@ -12,3 +12,4 @@
 - [A Tour of Go](https://go-tour-jp.appspot.com/list)
 - [JavaScript Primer](https://jsprimer.net/)
 - [とほほのWWW入門](https://www.tohoho-web.com/www.htm)
+- [機械学習のルール(Google)](https://developers.google.com/machine-learning/guides/rules-of-ml?hl=ja)
